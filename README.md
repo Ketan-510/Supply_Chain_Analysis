@@ -32,6 +32,6 @@
 
 ### -- Power BI Desktop – Data visualization and interactive dashboards.
 
-🎯 Objective
+## 🎯 Objective
 
-To enable businesses to optimize supply chain operations, improve supplier performance monitoring, and enhance inventory management through data-driven insights.
+### To enable businesses to optimize supply chain operations, improve supplier performance monitoring, and enhance inventory management through data-driven insights.
