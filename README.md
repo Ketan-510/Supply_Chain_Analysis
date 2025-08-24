@@ -2,6 +2,8 @@
 
 #### This project presents a Power BI Dashboard that provides a comprehensive analysis of supply chain performance. It highlights product trends, supplier efficiency, shipment analysis, and geographic insights to support data-driven decision-making.
 
+https://app.powerbi.com/view?r=eyJrIjoiMjA4MDYzYWEtOGI5NC00OGNjLWI2NWMtN2EwMjRmMDI1YjFhIiwidCI6IjYxZDZlZDFiLTY2NDktNGE2Ni05Mjk3LWQ2OGZlOWFlNTIzYSJ9 
+
 ## 🔑 Key Features
 
 ### 1. Product Analysis – Track stock levels, reorder points, and product category distribution.
